@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 /*
+=======
+/*El meu nom es Pol Hidalgo, phidalgo23@ilg.cat
+>>>>>>> a2581cded38af5ecf464f7046bf53aa02200d701
  * Program.java        20.10.2020
  *
  * Program to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  *
+<<<<<<< HEAD
  * Copyright 2020 Pol Hidalgo <phidalgo23@ilg.cat>
+=======
+ * Copyright 2023 Pol Hidalgo <phidalgo23@ilg.cat>
+>>>>>>> a2581cded38af5ecf464f7046bf53aa02200d701
  *
  * This is free software, licensed under the GNU General Public License v3.
  * See http://www.gnu.org/licenses/gpl.html for more information.
@@ -45,7 +53,11 @@ public class Program {
 
 		Scanner in = new Scanner(System.in);
 
+<<<<<<< HEAD
 		System.out.println("Enter the radius in meters: ");
+=======
+		System.out.println("Enter the radius: ");
+>>>>>>> a2581cded38af5ecf464f7046bf53aa02200d701
 		double radi = in.nextDouble();
 
 		in.close();
