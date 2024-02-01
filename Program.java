@@ -2,6 +2,7 @@
 /*
 =======
 /*El meu nom es Pol Hidalgo, phidalgo23@ilg.cat
+Esto es un cambio
 >>>>>>> a2581cded38af5ecf464f7046bf53aa02200d701
  * Program.java        20.10.2020
  *
